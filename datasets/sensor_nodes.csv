@@ -1,0 +1,91 @@
+,Name
+0,EEG Sensor
+1,Humidity Sensor
+2,GPS
+3,Nitrogen Oxides Sensor (NOx)
+4,Infrared Sensor
+5,Barometer
+6,EKG Sensor
+7,Defibrillator
+8,Muscle Contraction Sensor
+9,Galvanometer
+10,Pressure Sensor
+11,Thermometer
+12,USB
+13,LED Indicator
+14,EOG Sensor
+15,AMOLED Display
+16,Voice Actions
+17,Metronome
+18,OLED Display
+19,Noise Suppression
+20,Carbon Monoxide Sensor (CO)
+21,CO2 Canister
+22,EDA Sensor
+23,Motor
+24,Ingestible Core Pill Interface
+25,Ultraviolet Light Sensor
+26,E-Paper Display
+27,Depth Camera
+28,Water Resistant
+29,Visible Light Sensor
+30,DLP Display
+31,Buzzer
+32,Motion Sensor
+33,AC/DC RMS Volt Meter
+34,Accelerometer
+35,Gesture Interface
+36,PPG Sensor
+37,Biometric Authenticator
+38,Fire Resistant
+39,Backlight
+40,Plethysmograph
+41,Audio Jack
+42,Altimeter
+43,Mirasol IMOD Display
+44,Touch Interface
+45,Respiratory Monitor
+46,Infrared Camera
+47,Hygrometer
+48,EEG Monitor
+49,Particulate Matter Sensor
+50,Watch
+51,Oximeter
+52,Button Interface
+53,Bone Conduction Mic
+54,Audio Speaker
+55,Camera
+56,Blood Pressure Meter
+57,Lactic Threshold Sensor
+58,ECG Sensor
+59,Voice Interface
+60,Temperature Sensor
+61,Gyroscope
+62,Video Camera
+63,Ambient Light Sensor
+64,Pedometer
+65,Heart Rate Monitor
+66,Barcode Scanner
+67,LED Display
+68,Capacitive Sensor
+69,Photo Camera
+70,Monochrome Display
+71,Holographic Waveguide Display
+72,FM Tuner
+73,Glucometer
+74,Laser Position Sensor
+75,Bone Conduction Speaker
+76,Magnetometer
+77,Vibrator
+78,Methane Sensor (CH4)
+79,Skin Impedance Sensor
+80,Sonar Sensor
+81,Carbon Dioxide Sensor (CO2)
+82,Microphone
+83,QVGA Display
+84,Perspiration Monitor
+85,EMG Sensor
+86,Textile Strain Sensor
+87,Clock
+88,LCD Display
+89,Pulse Oximetry

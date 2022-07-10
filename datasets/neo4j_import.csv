@@ -1,0 +1,427 @@
+,Device_name,Company,Price,Body_location,Components,Power,Connectivity,Compatibility,Primary_Application
+0,4D Force,4D Force,,Worn on the Head,"EEG Sensor,EMG Sensor,EOG Sensor",Rechargeable Battery,Undisclosed,Undisclosed,"Gaming, Entertainment & Medical"
+1,Viiiiva,4iiii,79.99,Worn on the Chest,Heart Rate Monitor,Disposable Battery,ANT+,iOS,Fitness
+2,"IPCS ID-Badge, uTag, Asset Tag",9Solutions,"3,350.00",Worn on the Body (Anywhere),"Accelerometer,Button Interface,Buzzer",Rechargeable Battery,Zigbee,Windows,Medical & Industrial
+3,MiCoach Fit Smart,Adidas,149.99,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Vibrator,LED Display,Button Interface,USB",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+4,MiCoach Heart Rate Monitor,Adidas,59.99,Worn on the Chest,Heart Rate Monitor,Disposable Battery,Bluetooth,Windows Mobile,Fitness
+5,MiCoach Speed Cell,Adidas,69.99,Worn on the Feet,Accelerometer,Rechargeable Battery,Bluetooth,Windows,Fitness
+6,MiCoach X_Cell,Adidas,69.99,Worn on the Chest,"Heart Rate Monitor,Accelerometer",Disposable Battery,Bluetooth,Android,Fitness
+7,Smart Run,Adidas,399.00,Worn on the Wrist,"Heart Rate Monitor,LCD Display,GPS,Accelerometer,Clock,Touch Interface",Rechargeable Battery,WiFi,Windows,Fitness & Lifestyle
+8,iTAG100 Intrinsically Safe Wi-Fi RFID Tag,Extronics,,Worn on the Body (Anywhere),"Motion Sensor,Accelerometer,Temperature Sensor,Button Interface,Thermometer",Disposable Battery,RFID,Undisclosed,Industrial & Medical
+9,T2 Wi-Fi RFID Tag,Extronics,,Worn on the Body (Anywhere),"Motion Sensor,Temperature Sensor,Thermometer,Button Interface",Disposable Battery,RFID,Undisclosed,Industrial & Medical
+10,T3 Advanced Wi-Fi Tag,Extronics,,Worn on the Body (Anywhere),"Motion Sensor,Temperature Sensor,Thermometer,Accelerometer,Button Interface,LED Indicator",Disposable Battery,RFID,Undisclosed,Industrial & Medical
+11,Air Scouter,Brother Industries Ltd.,"1,966.00",Worn on the Head,DLP Display,Rechargeable Battery,HDMI,Android,Industrial
+12,AmbyGear Smart Watch,Ambit Networks,99.00,Worn on the Wrist,"Accelerometer,Magnetometer,GPS,LED Display",Rechargeable Battery,Bluetooth,Android,Lifestyle & Entertainment
+13,Apple Watch,Apple Inc.,299.00,Worn on the Wrist,"LCD Display,Touch Interface,Button Interface,Accelerometer,Heart Rate Monitor,Clock,Vibrator,Audio Speaker,GPS",Rechargeable Battery,NFC,iOS,Lifestyle & Fitness
+14,Apple Watch Series 2,Apple Inc.,369.00,Worn on the Wrist,"Audio Speaker,Touch Interface,Accelerometer,Heart Rate Monitor",Rechargeable Battery,NFC,iOS,Fitness
+15,AquaPulse,Finis,129.99,Worn on the Ear,"Infrared Sensor,Bone Conduction Speaker,Heart Rate Monitor,USB",Rechargeable Battery,,Undisclosed,Fitness & Medical
+16,ZenWatch WI500Q,ASUS,199.00,Worn on the Wrist,"OLED Display,Touch Interface,Accelerometer,Gyroscope,Magnetometer,Microphone,Vibrator",Rechargeable Battery,Bluetooth,Android,Lifestyle
+17,ZenWatch 2,ASUS,129.00,Worn on the Wrist,"Accelerometer,Gyroscope,Magnetometer,GPS,OLED Display,Vibrator",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+18,Air Glasses,Atheer Labs,"3,950.00",Worn on the Head,"Depth Camera,Photo Camera,Video Camera,Accelerometer,Ambient Light Sensor,Audio Jack,Audio Speaker,Barometer,Button Interface,Gesture Interface,GPS,Gyroscope,Magnetometer,Microphone,Vibrator",Rechargeable Battery,Cellular Network,Android,Industrial
+19,Athos,"Mad Apparel, Inc.",298.00,"Worn on the Torso, Legs & Thighs","Accelerometer,Muscle Contraction Sensor,Heart Rate Monitor",Rechargeable Battery,Bluetooth,,Fitness
+20,Atlas,Atlas Wearables,199.00,Worn on the Wrist,"OLED Display,Accelerometer,Ambient Light Sensor,Button Interface,Buzzer,Clock,Gesture Interface,Gyroscope,Heart Rate Monitor,Infrared Sensor,Pedometer,Touch Interface,Vibrator,USB",Rechargeable Battery,Bluetooth,Windows Mobile,Fitness & Lifestyle
+21,Glyph,Avegant,499.00,Worn on the Head,"DLP Display,Audio Speaker,Button Interface,Accelerometer,Gyroscope,Magnetometer,USB",External Source,HDMI,Blackberry,Entertainment & Gaming
+22,AWatch,Enjoy S.r.l.,299.00,Worn on the Wrist,"Accelerometer,Gyroscope,Magnetometer,GPS,Touch Interface,Audio Speaker,Vibrator,Button Interface",Rechargeable Battery,Cellular Network,Linux,Lifestyle
+23,Q-Sight,BAE Systems,,Worn on the Head,LCD Display,External Source,Proprietary,Windows,Industrial
+24,BalanSens,Biosensics LLC,"2,750.00",Worn on the Legs & Waist,"Accelerometer,Gyroscope",Rechargeable Battery,Bluetooth,Windows Mobile,Medical
+25,B1,Basis,199.00,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Ambient Light Sensor,Thermometer,LCD Display,Button Interface,Temperature Sensor,USB",Rechargeable Battery,Bluetooth,Android,Fitness & Lifestyle
+26,Peak,Basis,199.99,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Galvanometer,Thermometer,LCD Display,Clock,Touch Interface,Temperature Sensor",Rechargeable Battery,Bluetooth,Windows,Fitness & Lifestyle
+27,Be Bionic,RSLSteeper,,Worn on the Arm,"EMG Sensor,Motor,USB",Rechargeable Battery,,,"Medical, Lifestyle & Industrial"
+28,Bluetooth Gloves,BEARTek,95.00,Worn on the Hand,"Touch Interface,USB",Rechargeable Battery,Bluetooth,Windows Mobile,Lifestyle & Entertainment
+29,Studio Wireless,Beats Electronics,349.00,Worn on the Head,"Audio Speaker,Microphone,Button Interface,USB",Rechargeable Battery,Bluetooth,OSX,Lifestyle
+30,PowerBeats 2 Wireless,Beats Electronics,189.00,Worn on the Ear,"Button Interface,Audio Speaker,Microphone,USB",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+31,Leaf,Bellabeat,119.00,Worn on the Body (Anywhere),"Accelerometer,Vibrator",Disposable Battery,Bluetooth,Android,Fitness & Lifestyle
+32,Bi-TAD,GEO Group Company,,Worn on the Ankle,,Rechargeable Battery,Radio Frequency,None,Lifestyle & Industrial
+33,BIA Sports Watch,BIA,249.00,Worn on the Wrist,"Touch Interface,GPS,Accelerometer,Clock",Rechargeable Battery,WiFi,Undisclosed,"Lifestyle, Fitness & Industrial"
+34,Bioharness 3,Zephyr,549.95,Worn on the Torso,"GPS,Accelerometer,Heart Rate Monitor,Respiratory Monitor,ECG Sensor,EKG Sensor",Rechargeable Battery,Bluetooth,OSX,Fitness
+35,BioPatch,Zephyr,,Worn on the Body (Anywhere),"ECG Sensor,Accelerometer,Respiratory Monitor,EKG Sensor",Rechargeable Battery,Bluetooth,OSX,Fitness
+36,Blocks Modular Watch,Blocks,330.00,Worn on the Wrist,"Gyroscope,Heart Rate Monitor,GPS,Humidity Sensor,Pressure Sensor,AMOLED Display,Thermometer,Temperature Sensor,Magnetometer",Rechargeable Battery,WiFi,iOS,Lifestyle & Fitness
+37,BlueBuds X,JayBird,123.00,Worn on the Ear,"Microphone,Audio Speaker,Button Interface,USB",Rechargeable Battery,Bluetooth,Linux,Entertainment
+38,Link,BodyMedia,119.00,Worn on the Arm,"Accelerometer,Thermometer,Ambient Light Sensor,Temperature Sensor",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+39,PressureTel,BodyTel,,Worn on the Arm,"Blood Pressure Meter,LCD Display,Button Interface",Disposable Battery,Bluetooth,Android,Medical
+40,Bose Bluetooth Headset Series 2,Bose,149.00,Worn on the Ear,"Microphone,Audio Speaker,Button Interface",Rechargeable Battery,Bluetooth,Blackberry,Lifestyle
+41,bPay Wristband,Barclaycard,25.00,Worn on the Wrist,,No Power Required,NFC,Android,Lifestyle
+42,BPM Physio,270 Vision Ltd.,250.00,Worn on the Body (Anywhere),"Accelerometer,Barometer,Button Interface,Gesture Interface,Gyroscope,Magnetometer,Pedometer,Pressure Sensor",Rechargeable Battery,Bluetooth,iOS,Medical & Fitness
+43,BSX Athletics,BSX Insight,299.00,Worn on the Legs,"Lactic Threshold Sensor,Oximeter,Heart Rate Monitor",Rechargeable Battery,ANT+,Windows,Fitness
+44,BTS Surface EMG,BTS Bioengineering,,Worn on the Body,"Touch Interface,EMG Sensor",Rechargeable Battery,WiFi,Windows,Medical & Fitness
+45,"D01, D02",Buhel,128.99,Worn on the Head,"Bone Conduction Speaker,Microphone",Rechargeable Battery,Bluetooth,Blackberry,Lifestyle
+46,SG04,Buhel,155.00,Worn on the Head,"Audio Speaker,Perspiration Monitor,Bone Conduction Mic",Rechargeable Battery,Bluetooth,Blackberry,Fitness & Lifestyle
+47,"G31, G33",Buhel,239.00,Worn on the Head,"Audio Speaker,Perspiration Monitor",Rechargeable Battery,Bluetooth,Blackberry,Fitness
+48,Tempo,CarePredict,169.00,Worn on the Wrist,Accelerometer,Rechargeable Battery,WiFi,Windows,Lifestyle
+49,G-Shock GB-6900,Casio,180.00,Worn on the Wrist,"Clock,LCD Display,Buzzer,Button Interface",Disposable Battery,Bluetooth,iOS,Lifestyle & Entertainment
+50,WSD-F10,Casio,500.00,Worn on the Wrist,"Accelerometer,LCD Display,Monochrome Display,Pressure Sensor,Altimeter,Gyroscope,Magnetometer",Rechargeable Battery,WiFi,iOS,Lifestyle
+51,CastAR,CastAR,900.00,Worn on the Head,"DLP Display,Gyroscope,USB",Rechargeable Battery,HDMI,Windows,Gaming & Entertainment
+52,OptimEye S5,Catapult,300.00,Worn on the Legs & Feet,"Accelerometer,Magnetometer,Gyroscope,GPS,Heart Rate Monitor,USB",Rechargeable Battery,ANT+,iOS,Fitness & Medical
+53,Elvie,Chiaro Technology Ltd,199.00,Worn on the Pelvis,Pressure Sensor,Rechargeable Battery,Bluetooth,Android,Fitness & Medical
+54,SiME Smart Glasses,CHIPSIP,550.00,Worn on the Head,"Microphone,Camera,Gyroscope,Accelerometer,GPS,Infrared Camera,Video Camera,Voice Actions,Touch Interface,Magnetometer,USB",Rechargeable Battery,Bluetooth,Android,"Industrial, Gaming, Lifestyle, Medical & Entertainment"
+55,Chrono,Chrono Therapeutics,,Worn on the Wrist,,Rechargeable Battery,Bluetooth,Windows Mobile,Medical
+56,Cinemizer OLED,Carl Zeiss,,Worn on the Head,"OLED Display,Gyroscope,USB",Rechargeable Battery,HDMI,OSX,Gaming & Entertainment
+57,Proximity AT7030-05E,Citizen,378.00,Worn on the Wrist,"Watch,Button Interface,Vibrator",Solar Power,Bluetooth,iOS,Lifestyle
+58,Proximity AT7035-01E,Citizen,525.00,Worn on the Wrist,"Watch,Button Interface,Vibrator",Solar Power,Bluetooth,iOS,Lifestyle
+59,Code4Armour,Code4Armour,68.00,Worn on the Wrist,,No Power Required,NFC,Linux,Medical
+60,Pop,Cogito,149.00,Worn on the Wrist,"Accelerometer,Watch,Button Interface,LED Display",Disposable Battery,Bluetooth,Android,Lifestyle
+61,Compass,Drift Innovation,129.00,"Worn on the Chest, Head & Torso","Photo Camera,Touch Interface,Video Camera",External Source,WiFi,iOS,Lifestyle
+62,Cogito,ConnecteDevice Ltd.,179.95,Worn on the Wrist,"Clock,LCD Display,Button Interface",Disposable Battery,Bluetooth,iOS,Lifestyle
+63,Cookoo,ConnecteDevice Ltd.,129.99,Worn on the Wrist,"Clock,LCD Display,Button Interface",Disposable Battery,Bluetooth,iOS,Lifestyle
+64,HAL,Cyberdyne Inc,"¥2,686,000.00 JPY",Worn on the Legs & Body,Motor,Rechargeable Battery,Undisclosed,Undisclosed,Medical & Industrial
+65,Cygnus,Tranzas Inc,,"Worn on the Wrist, Arm & Hand","Camera,Microphone,Touch Interface,Audio Speaker,USB",Rechargeable Battery,WiFi,Android,
+66,DAQRI Smart Helmet,DAQRI LLC.,,Worn on the Head,"Depth Camera,Video Camera,Accelerometer,Gyroscope,Magnetometer",Rechargeable Battery,,,Industrial
+67,Dash,BRAGI LLC.,179.00,Worn on the Ear,"Infrared Sensor,Thermometer,Bone Conduction Mic,Accelerometer,Touch Interface,LED Display,Audio Speaker,Oximeter,Heart Rate Monitor,Temperature Sensor",Rechargeable Battery,Bluetooth,Android,Fitness & Lifestyle
+68,Deloitte Smart Helmet Clip,Deloitte,,Worn on the Head,"Carbon Monoxide Sensor (CO),Carbon Dioxide Sensor (CO2),Methane Sensor (CH4),Nitrogen Oxides Sensor (NOx),Accelerometer,Gyroscope,Thermometer,Humidity Sensor,Photo Camera,GPS,Temperature Sensor,Magnetometer",Wireless Charging,Bluetooth,,Industrial
+69,Smartshoe,DigitSole,,Worn on the Feet,Pedometer,Rechargeable Battery,Bluetooth,iOS,Lifestyle
+70,DorsaVi,DorsaVi,,"Worn on the Shoulders, Legs, Back & Thighs",,Rechargeable Battery,WiFi,OSX,Medical & Fitness
+71,Duo Fertility,Cambridge Temperature Concepts Ltd,899.00,Worn on the Torso,,Rechargeable Battery,Proprietary,OSX,Medical
+72,EagleView,Tekinno,"2,450.00","Worn on the Arm, Hand & Wrist",LED Display,Rechargeable Battery,Zigbee,,Industrial
+73,EasyWakeMe,Dreamtrap™ Commercials LTD,118.00,Worn on the Wrist & Ankle,,Rechargeable Battery,Bluetooth,Blackberry,Fitness
+74,Ekso,Esko Bionics,,Worn on the Body,Motor,Rechargeable Battery,Undisclosed,Undisclosed,"Medical, Fitness & Industrial"
+75,Move,Electric Foxy,,Worn on the Torso,Textile Strain Sensor,,WiFi,iOS,Fitness & Lifestyle
+76,Elemoon,Elemoon,399.00,Worn on the Wrist,LED Display,Rechargeable Battery,Bluetooth,iOS,Lifestyle
+77,eLocator Checkpoint,S3ID,,Worn on the Waist,GPS,Rechargeable Battery,Ultra Wide Band,Undisclosed,Industrial
+78,EMOTIV Insight,Emotiv Inc,299.00,Worn on the Head,EEG Sensor,Rechargeable Battery,Bluetooth,Linux,Medical & Gaming
+79,E4 Wristband,Empatica,"1,690.00",Worn on the Wrist,"Accelerometer,Clock,Heart Rate Monitor,Thermometer,PPG Sensor,EDA Sensor,Temperature Sensor",Rechargeable Battery,Bluetooth,iOS,Lifestyle & Medical
+80,Embrace Watch,Empatica,249.00,Worn on the Wrist,"Accelerometer,Gyroscope,Vibrator,Thermometer,Temperature Sensor",Rechargeable Battery,Bluetooth,iOS,Lifestyle & Medical
+81,EPOC Neuroheadset,Emotiv,799.00,Worn on the Head,"Gyroscope,EEG Sensor,USB",External Source,Bluetooth,iOS,"Lifestyle, Entertainment & Gaming"
+82,Moverio Pro BT-2000,Epson,"2,999.99",Worn on the Head,"Video Camera,Touch Interface,GPS,Voice Interface",Rechargeable Battery,WiFi,,Industrial
+83,PS-500,Epson,199.00,Worn on the Wrist,"LCD Display,Heart Rate Monitor,Clock,Button Interface",Rechargeable Battery,Bluetooth,Windows,"Lifestyle, Medical & Fitness"
+84,PS-100,Epson,129.00,Worn on the Wrist,"LED Display,Button Interface,Heart Rate Monitor",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+85,EQ02 LifeMonitor,Equivital,,Worn on the Chest & Torso,"Accelerometer,Button Interface,Clock,ECG Sensor,Heart Rate Monitor,Infrared Sensor,LED Display,Pedometer,Respiratory Monitor,Thermometer,Touch Interface,Ingestible Core Pill Interface,GPS,PPG Sensor,Temperature Sensor,EKG Sensor,USB",Rechargeable Battery,Proprietary,SatComms,Medical
+86,Esight Eyewear,Esight Corporation,,Worn on the Head,"OLED Display,Button Interface",Rechargeable Battery,,,Medical
+87,Evena Eyes On,Evena Medical,"14,000.00",Worn on the Head,"Audio Speaker,Button Interface,Infrared Camera,Infrared Sensor,LED Display,Microphone,Photo Camera,Touch Interface,Video Camera,USB",Rechargeable Battery,WiFi,Windows,Medical
+88,Zazzi,FashionTEQ,249.00,"Worn on the Wrist, Fingers & Neck",E-Paper Display,Rechargeable Battery,Bluetooth,iOS,Lifestyle
+89,DominatorHD,Fat Shark,259.99,Worn on the Head,"Accelerometer,Gyroscope,Magnetometer,LCD Display",Disposable Battery,HDMI,Windows,Entertainment
+90,Readiband,Fatigue Science,,Worn on the Wrist,"Accelerometer,Vibrator",Rechargeable Battery,Bluetooth,Android,"Medical, Industrial & Fitness"
+91,Filip,Filip,199.99,Worn on the Wrist,"Button Interface,LCD Display,Clock",Rechargeable Battery,WiFi,Android,Lifestyle
+92,Tracker,FitBark,99.00,Worn on the Neck,Accelerometer,Rechargeable Battery,Bluetooth,Android,Pets Animals
+93,Fitbit Alta,Fitbit,127.99,Worn on the Wrist,"Accelerometer,OLED Display",Rechargeable Battery,Bluetooth,Windows Mobile,Fitness & Lifestyle
+94,Blaze,Fitbit,199.95,Worn on the Wrist,"Accelerometer,Heart Rate Monitor,Altimeter,Ambient Light Sensor,Vibrator,LCD Display",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+95,Charge,Fitbit,129.95,Worn on the Wrist,"Accelerometer,OLED Display,Vibrator,Clock,Button Interface",Rechargeable Battery,Bluetooth,Windows,Fitness & Lifestyle
+96,Charge HR,Fitbit,149.95,Worn on the Wrist,"Heart Rate Monitor,OLED Display,Button Interface,Accelerometer,Clock,Vibrator",Rechargeable Battery,Bluetooth,OSX,Fitness & Lifestyle
+97,Flex,Fitbit,99.95,Worn on the Wrist,"Accelerometer,LED Display,Vibrator",Rechargeable Battery,Bluetooth,Windows,Fitness & Lifestyle
+98,Fitbit One,Fitbit,99.95,Worn on the Wrist & Body (Anywhere),"OLED Display,Clock,Accelerometer,Vibrator,Altimeter,Button Interface",Rechargeable Battery,WiFi,iOS,Fitness & Lifestyle
+99,Surge,Fitbit,249.95,Worn on the Wrist,"GPS,Heart Rate Monitor,Accelerometer,Clock,Button Interface,Vibrator,Gyroscope,Magnetometer,Altimeter,Ambient Light Sensor,Backlight,Touch Interface,LCD Display",Rechargeable Battery,Bluetooth,Windows,Lifestyle & Fitness
+100,Fitbit Zip,Fitbit,69.95,Worn on the Body (Anywhere),Accelerometer,Disposable Battery,Bluetooth,OSX,Fitness
+101,Orb,Fitbug,49.95,Worn on the Wrist & Body (Anywhere),,Disposable Battery,Bluetooth,iOS,Fitness & Medical
+102,FitGuard,Force Impact Technologies,50.00,Worn on the Head,Accelerometer,Rechargeable Battery,Bluetooth,iOS,Medical & Lifestyle
+103,AmpStrip,FitLinxx,149.95,Worn on the Torso,"ECG Sensor,Accelerometer,Thermometer,Temperature Sensor,EKG Sensor",Rechargeable Battery,Bluetooth,Android,Fitness
+104,Free Wavz,Free Wavz,219.00,Worn on the Ear,"Heart Rate Monitor,Audio Speaker,Button Interface,Accelerometer,Oximeter,Microphone,Voice Interface",Rechargeable Battery,Bluetooth,Android,Fitness
+105,Fun'iki Ambient Glasses,Japanese Institute of Advanced Media Arts and Sciences (IAMAS) and Paris Miki Holdings Inc,"¥27,000.00 JPY",Worn on the Head,"Accelerometer,Ambient Light Sensor,Audio Speaker,USB",Rechargeable Battery,Bluetooth,Blackberry,Lifestyle
+106,Game Golf,Active Mind Technology,249.00,Worn on the Waist,"GPS,USB",Rechargeable Battery,,OSX,Lifestyle
+107,Gameband Minecraft,Gameband Minecraft,79.99,Worn on the Wrist,"Clock,LED Display,USB",Rechargeable Battery,,OSX,Gaming & Entertainment
+108,Approach S3,Garmin,269.99,Worn on the Wrist,"GPS,LCD Display,Clock,Touch Interface,Button Interface,USB",Rechargeable Battery,,Windows,Fitness
+109,Approach S6,Garmin Corp,399.00,Worn on the Wrist,"GPS,Accelerometer,Touch Interface,Button Interface,Clock,USB",Rechargeable Battery,Bluetooth,Android,Entertainment
+110,Garmin Astro 320 + T5,Garmin,599.99,Worn on the Body (Anywhere),"GPS,LCD Display,Button Interface,Barometer,Altimeter,Magnetometer,Water Resistant,USB",Rechargeable Battery,,OSX,Pets Animals
+111,Forerunner 15,Garmin,140.00,Worn on the Wrist,"GPS,Button Interface,USB",Rechargeable Battery,,OSX,Fitness
+112,Forerunner 220,Garmin,293.00,Worn on the Wrist,"Button Interface,GPS,Motor,Accelerometer,Backlight,USB",Rechargeable Battery,ANT+,Windows,Fitness
+113,Forerunner 620,Garmin,379.00,Worn on the Wrist,"Accelerometer,Heart Rate Monitor,Backlight,Clock,Button Interface,Touch Interface,Vibrator",Rechargeable Battery,Bluetooth,iOS,Fitness
+114,Forerunner 910XT,Garmin,449.99,Worn on the Wrist,"GPS,LCD Display,Clock,Button Interface",Rechargeable Battery,ANT+,Windows,Fitness
+115,Forerunner 920XT,Garmin,495.00,Worn on the Wrist,"Button Interface,GPS,Altimeter,Metronome,Vibrator,Clock,LCD Display,USB",Rechargeable Battery,ANT+,OSX,Fitness & Lifestyle
+116,Garmin Swim,Garmin,150.00,Worn on the Wrist,"Accelerometer,Clock,Button Interface,Buzzer",Disposable Battery,ANT+,Linux,Lifestyle & Fitness
+117,Vivoactive,Garmin,250.00,Worn on the Wrist,"Vibrator,Clock,Touch Interface,GPS,LCD Display,Backlight,Button Interface",Rechargeable Battery,ANT+,Android,Fitness & Lifestyle
+118,Vivo,Garmin,179.99,Worn on the Wrist,"Accelerometer,Heart Rate Monitor",Disposable Battery,ANT+,Windows,Lifestyle & Fitness
+119,Garmin Vivomove,Garmin,149.99,Worn on the Wrist,Accelerometer,CR2025 Coin Cell,Bluetooth,Windows Mobile,Fitness & Lifestyle
+120,Vivosmart,Garmin,149.99,Worn on the Wrist,"Vibrator,OLED Display,Watch,Accelerometer,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+121,Vivosmart HR,Garmin,149.99,Worn on the Wrist,"Vibrator,LCD Display,Clock,Accelerometer,Altimeter,Touch Interface,Heart Rate Monitor,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+122,Classic,Geodog,446.50,Worn on the Neck,"GPS,USB",Rechargeable Battery,Cellular Network,Blackberry,Pets Animals
+123,iBitz,Geopalz,49.99,Worn on the Feet & Waist,Accelerometer,Disposable Battery,Bluetooth,iOS,Fitness & Medical
+124,Glance,Kiwi Wearables,80.00,Worn on the Wrist,"OLED Display,Accelerometer,Gyroscope,Magnetometer,Barometer,Vibrator",Rechargeable Battery,Bluetooth,Android,Lifestyle
+125,Uno,GlassUp,399.00,Worn on the Head,"Accelerometer,Magnetometer,Ambient Light Sensor",Rechargeable Battery,Bluetooth,Windows Mobile,Industrial
+126,R Jacket,Glofaster,240.00,Worn on the Torso,LED Indicator,Rechargeable Battery,Bluetooth,,Fitness
+127,GoBe,HealBe,149.00,Worn on the Wrist,"Accelerometer,Skin Impedance Sensor,Oximeter",Rechargeable Battery,Bluetooth,OSX,Fitness & Lifestyle
+128,Gen 3.8,Golden-i,,Worn on the Head,USB,Rechargeable Battery,WiFi,Gi-OS,Industrial
+129,Glass,Google [x],"1,500.00",Worn on the Head,"Accelerometer,Clock,Bone Conduction Speaker,DLP Display,GPS,Gyroscope,Microphone,Photo Camera,Video Camera,Touch Interface,Infrared Sensor,Magnetometer,Ambient Light Sensor,USB",Rechargeable Battery,WiFi,Linux,Lifestyle & Industrial
+130,GOQii,GOQii Inc,169.00,Worn on the Wrist,"Accelerometer,Clock,OLED Display,Pedometer,Touch Interface,Vibrator",Rechargeable Battery,Bluetooth,Android,Fitness & Lifestyle
+131,Sensoria Fitness Socks & Anklet,Heapsylon,199.00,Worn on the Legs & Torso,"Accelerometer,Altimeter,Pressure Sensor",Rechargeable Battery,Bluetooth,iOS,Fitness
+132,Smart Garment,Heddoko,,Worn on the Body,Accelerometer,Rechargeable Battery,Bluetooth,iOS,Fitness & Industrial
+133,Helo LX,World International,319.00,Worn on the Wrist,"Accelerometer,Gyroscope,Button Interface,Blood Pressure Meter,EKG Sensor,Glucometer,Pedometer,Plethysmograph,Temperature Sensor,Heart Rate Monitor,Oximeter,GPS,PPG Sensor,Thermometer,ECG Sensor",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+134,HereO,HereO,,Worn on the Wrist,"GPS,Clock,Accelerometer",Rechargeable Battery,Cellular Network,Android,Lifestyle
+135,Hex,Humon,295.00,Worn on the Legs,Oximeter,Rechargeable Battery,Bluetooth,iOS,Fitness
+136,Hexoskin,Carré Technologies,399.00,Worn on the Torso,"Respiratory Monitor,Heart Rate Monitor,Pedometer,ECG Sensor,Accelerometer,Thermometer,Temperature Sensor,EKG Sensor,USB",Rechargeable Battery,Bluetooth,Android,"Fitness, Lifestyle & Industrial"
+137,8600 Ring Scanner,Honeywell,684.00,Worn on the Fingers,,External Source,Proprietary,,Industrial
+138,Hövding,Hövding,299.00,Worn on the Head,USB,Rechargeable Battery,,Undisclosed,Fitness
+139,Vive,HTC,700.00,Worn on the Head,"Camera,Gyroscope,Accelerometer,Laser Position Sensor,OLED Display,USB",External Source,HDMI,OSX,Entertainment & Gaming
+140,TalkBand B1,Huawei,57.89,Worn on the Wrist,"OLED Display,Accelerometer,USB",Rechargeable Battery,NFC,iOS,Lifestyle & Fitness
+141,Talkband B2,Huawei,179.00,Worn on the Wrist & Head,"Microphone,Audio Speaker,Accelerometer,OLED Display",Rechargeable Battery,Bluetooth,Android,Lifestyle
+142,Watch,Huawei,499.00,Worn on the Wrist,"Accelerometer,Gyroscope,Heart Rate Monitor,Barometer,Vibrator,OLED Display,Touch Interface",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+143,Hex,Humon,295.00,Worn on the Legs,"Water Resistant,Oximeter,Muscle Contraction Sensor",Wireless Charging,ANT+,iOS,Lifestyle & Fitness
+144,HyGreen,HyGreen Inc.,,Worn on the Chest,,,,,Medical
+145,I-limb Ultra,Touch Bionics,,Worn on the Hand,,Rechargeable Battery,Bluetooth,OSX,Medical & Industrial
+146,Crash Sensor,Icedot,149.00,Worn on the Head,"Accelerometer,Gyroscope",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+147,IDM PERFORM,JumpStartCSR,200.00,Worn on the Feet,"Accelerometer,Gyroscope",Rechargeable Battery,Bluetooth,iOS,"Fitness, Medical & Industrial"
+148,VUE,iFIT Technologies,79.00,Worn on the Wrist & Body (Anywhere),"Touch Interface,OLED Display",Rechargeable Battery,Bluetooth,Android,Fitness
+149,Activity And Sleep Tracker,iHealth,59.95,Worn on the Wrist & Waist,,Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+150,Pulse Oximeter,iHealth,69.95,Worn on the Fingers,"Oximeter,Heart Rate Monitor",Rechargeable Battery,Bluetooth,iOS,Fitness & Medical
+151,iHeart,iHeart,225.00,Worn on the Fingers,"LED Display,Button Interface",Disposable Battery,Bluetooth,iOS,Fitness & Lifestyle
+152,EEG Headset,Imec,,Worn on the Head,"EEG Sensor,ECG Sensor,Respiratory Monitor,EKG Sensor",Rechargeable Battery,Bluetooth,Undisclosed,Medical
+153,InBody Band,InBody,179.00,Worn on the Wrist,"Touch Interface,Accelerometer,LCD Display,Skin Impedance Sensor",Rechargeable Battery,Bluetooth,Android,Fitness
+154,Instabeat,Instabeat,149.00,Worn on the Head,"Accelerometer,Ambient Light Sensor,Clock,Heart Rate Monitor,LED Display,Magnetometer,USB",Rechargeable Battery,,OSX,Fitness
+155,Omnipod,Insulet,"4,680.00",Worn on the Body (Anywhere),"Audio Speaker,Vibrator,Clock,Glucometer,Button Interface,LCD Display",Disposable Battery,Undisclosed,None,Medical
+156,Intelligent Headset,Intelligent Headset,420.00,Worn on the Head,"Magnetometer,Gyroscope,Accelerometer,Microphone,Audio Speaker",,Bluetooth,iOS,"Lifestyle, Entertainment & Gaming"
+157,Muse,InteraXon,269.00,Worn on the Head,"EEG Sensor,Accelerometer,USB",Rechargeable Battery,Bluetooth,Linux,Lifestyle & Medical
+158,MobileView Body Worn Camera,Interlogix,,Worn on the Chest,"LCD Display,GPS,Button Interface,Camera,Microphone,Water Resistant,Infrared Camera,USB",Rechargeable Battery,AV Port,OSX,Industrial
+159,Iota,Iotera,138.00,Worn on the Body (Anywhere),"GPS,Accelerometer,Audio Speaker,Button Interface,Thermometer,Temperature Sensor",Rechargeable Battery,Bluetooth,Android,"Pets Animals, Lifestyle & Industrial"
+160,IriverOn,Iriver Ltd,199.99,Worn on the Ear,"Heart Rate Monitor,Clock,Accelerometer",,Bluetooth,iOS,Fitness
+161,Era,Jawbone,65.00,Worn on the Ear,"Microphone,Audio Speaker,Button Interface,USB",Rechargeable Battery,Bluetooth,Blackberry,Lifestyle
+162,UP Move,Jawbone,49.99,Worn on the Body (Anywhere),"Accelerometer,LED Indicator,Clock",Disposable Battery,Bluetooth,Android,Lifestyle & Fitness
+163,UP2,Jawbone,119.99,Worn on the Wrist,"Accelerometer,LED Indicator",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+164,UP3,Jawbone,179.99,Worn on the Wrist,"Vibrator,Accelerometer,LED Indicator,Skin Impedance Sensor,Thermometer,Temperature Sensor",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+165,Freedom Sprint,JayBird,75.00,Worn on the Ear,"Button Interface,LED Indicator,Microphone,Audio Speaker,USB",Rechargeable Battery,Bluetooth,Windows Mobile,Lifestyle & Entertainment
+166,Athletics,Jolt,99.00,Worn on the Head,"Accelerometer,Vibrator,USB",Rechargeable Battery,Bluetooth,iOS,Fitness
+167,Jumpy,Jumpy,99.00,Worn on the Wrist,"Microphone,Audio Speaker,Accelerometer,Gyroscope,LED Display",Rechargeable Battery,WiFi,iOS,"Entertainment, Gaming & Lifestyle"
+168,Kapture,Kapture,149.00,Worn on the Wrist,"Microphone,Touch Interface,Accelerometer,LED Indicator,Vibrator",Rechargeable Battery,Bluetooth,Android,Entertainment & Lifestyle
+169,Patch,Kenzen,,Worn on the Body (Anywhere),"ECG Sensor,Accelerometer,Capacitive Sensor,EKG Sensor",Rechargeable Battery,Bluetooth,Android,Medical
+170,KiGO Watch,Watcher Enterprises B.V.,202.19,Worn on the Wrist,"GPS,Water Resistant,Watch,OLED Display,Accelerometer,Gyroscope,Audio Speaker,Buzzer,Button Interface,Infrared Sensor,USB",Rechargeable Battery,Cellular Network,Android,Lifestyle
+171,TUNE,Kinematix,200.00,Worn on the Feet,"Pressure Sensor,Accelerometer",Rechargeable Battery,Bluetooth,Android Wear,Fitness
+172,Kit Wristband,KMS,329.00,Worn on the Wrist,"LED Display,Microphone,Audio Speaker",Rechargeable Battery,WiFi,Undisclosed,Medical & Lifestyle
+173,Pro Mobile Display,Laster Technologies,,Worn on the Head,"Gyroscope,Accelerometer,GPS,Microphone,Magnetometer",Rechargeable Battery,Bluetooth,Android,Lifestyle
+174,Leap Band,Leap Frog,49.99,Worn on the Wrist,"Audio Speaker,Button Interface",Rechargeable Battery,Undisclosed,Undisclosed,Entertainment
+175,Lechal Shoe,Lechal,179.00,Worn on the Feet,Vibrator,Rechargeable Battery,Bluetooth,Android,Fitness & Lifestyle
+176,LegSys,Biosensics,"2,750.00",Worn on the Legs,"Accelerometer,Gyroscope",Rechargeable Battery,Bluetooth,Windows Mobile,Medical
+177,Pegasus Backpack,Leica Geosystems,,Worn on the Torso,"Camera,Accelerometer,Gyroscope,GPS,Depth Camera,USB",Rechargeable Battery,WiFi,Undisclosed,Industrial
+178,Leikr,Leikr,349.00,Worn on the Wrist,"GPS,Buzzer,Clock,LCD Display,Button Interface,USB",Rechargeable Battery,ANT+,Android,Lifestyle & Fitness
+179,G Watch,LG,199.00,Worn on the Wrist,"LCD Display,Accelerometer,Gyroscope,Magnetometer,Touch Interface,Clock,Vibrator,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle
+180,G Watch R,LG,300.00,Worn on the Wrist,"Accelerometer,Gyroscope,Barometer,Heart Rate Monitor",Rechargeable Battery,Bluetooth,Android,"Entertainment, Fitness & Lifestyle"
+181,Gizmopal,LG,79.99,Worn on the Wrist,"Audio Speaker,Microphone,Button Interface,GPS",Rechargeable Battery,Cellular Network,Android,Lifestyle
+182,Heart Rate Earphones,LG,,Worn on the Head,"Heart Rate Monitor,Audio Speaker",Rechargeable Battery,Bluetooth,Android,Fitness & Lifestyle
+183,Lifeband Touch,LG,,Worn on the Wrist,"Accelerometer,OLED Display,Touch Interface,Clock",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+184,Watch Urbane,LG,296.00,Worn on the Wrist,"Accelerometer,Magnetometer,Gyroscope,Heart Rate Monitor,OLED Display,Touch Interface",Rechargeable Battery,WiFi,Android,Lifestyle
+185,LITPro,NZN Labs Inc.,499.00,Worn on the Head,"GPS,Gyroscope,Accelerometer",Rechargeable Battery,Bluetooth,OSX,
+186,Ring,Logbar Inc.,269.99,Worn on the Fingers,"Accelerometer,Touch Interface,Vibrator",Rechargeable Battery,Bluetooth,Windows Mobile,Lifestyle & Entertainment
+187,Lumafit,Lumafit,99.00,Worn on the Ear,"Oximeter,Heart Rate Monitor,Button Interface",Rechargeable Battery,Bluetooth,Windows,Lifestyle
+188,Back,LUMO Body Tech,149.95,Worn on the Waist,USB,Rechargeable Battery,Bluetooth,Android,Lifestyle
+189,Lift,Lumo,69.00,Worn on the Shoulders & Chest,,Rechargeable Battery,Bluetooth,Android,Lifestyle
+190,DK-40,Lumus,,Worn on the Head,"Accelerometer,Gyroscope,Magnetometer,Video Camera,DLP Display",Rechargeable Battery,Undisclosed,Android,Lifestyle
+191,Martian Notifier,Martian,127.22,Worn on the Wrist,"Watch,OLED Display,Vibrator,Touch Interface,Button Interface,LED Indicator,USB",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+192,Co-Pilot,Maven Machines,,Worn on the Head,"Microphone,Accelerometer,Gyroscope,Magnetometer,Audio Speaker,Noise Suppression",Rechargeable Battery,Bluetooth,,Industrial
+193,Mbody,Myontec,620.00,Worn on the Legs,"Heart Rate Monitor,Altimeter,Accelerometer,Muscle Contraction Sensor",Rechargeable Battery,Bluetooth,Android,Fitness & Medical
+194,Smarting,mBrainTrain,"5,500.00",Worn on the Head,"EEG Monitor,Gyroscope,Accelerometer,USB",Rechargeable Battery,Bluetooth,Windows,Medical
+195,meMINI,meMINI Ltd.,179.00,Worn on the Body (Anywhere),"Audio Speaker,Microphone,Video Camera,USB",Rechargeable Battery,Bluetooth,Android,Entertainment & Lifestyle
+196,META 2 Augmented Reality Headset,META,949.00,Worn on the Head,"Accelerometer,Gyroscope,Magnetometer,DLP Display,Depth Camera,Video Camera,Gesture Interface,Audio Speaker",External Source,Proprietary,iOS,"Entertainment, Gaming, Lifestyle & Industrial"
+197,Metria IH1,Vancive Medical Technologies,,Worn on the Arm,"Accelerometer,Galvanometer,Thermometer,Temperature Sensor,USB",Rechargeable Battery,,OSX,Fitness & Medical
+198,MB Chronowing,Hewlett-Packard,349.99,Worn on the Wrist,"Watch,Vibrator,LCD Display",Rechargeable Battery,Bluetooth,Android,Lifestyle
+199,Band,Microsoft,199.99,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Gyroscope,GPS,Ambient Light Sensor,Thermometer,Ultraviolet Light Sensor,Capacitive Sensor,Galvanometer,Microphone,Vibrator,Touch Interface,Clock,Button Interface,Temperature Sensor",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+200,Microsoft Band 2,Microsoft,299.99,Worn on the Wrist,"Accelerometer,Ambient Light Sensor,Barometer,Clock,GPS,Gyroscope,Heart Rate Monitor,Pedometer,Thermometer,Touch Interface,Vibrator,Ultraviolet Light Sensor,Capacitive Sensor,Galvanometer,Temperature Sensor",Rechargeable Battery,,Windows Mobile,Lifestyle
+201,HoloLens,Microsoft,"3,000.00",,"Depth Camera,Microphone,Accelerometer,Gyroscope,Magnetometer,Ambient Light Sensor,Video Camera,Holographic Waveguide Display",Rechargeable Battery,WiFi,Windows,"Gaming, Industrial & Entertainment"
+202,Mindset,Mindset,279.00,Worn on the Head,"EEG Sensor,Audio Speaker,Microphone,Accelerometer,Audio Jack",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+203,MindWave,NeuroSky Inc.,79.99,Worn on the Head,EEG Sensor,Disposable Battery,WiFi,OSX,Lifestyle
+204,Mio Alpha,Mio,199.00,Worn on the Wrist,"Heart Rate Monitor,LCD Display,Button Interface,Clock",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+205,Alpha 2,Mio,199.00,Worn on the Wrist,"Heart Rate Monitor,LCD Display,Button Interface,Clock,Accelerometer",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+206,FUSE,Mio,169.00,Worn on the Wrist,"Heart Rate Monitor,LED Display,Button Interface,Clock,Accelerometer",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+207,Mio Link,Mio,99.00,Worn on the Wrist,"Heart Rate Monitor,Clock",Rechargeable Battery,ANT+,iOS,Fitness
+208,SLICE,Mio,129.00,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Vibrator,OLED Display",Rechargeable Battery,ANT+,iOS,Fitness & Lifestyle
+209,VELO,Mio,139.00,Worn on the Wrist,"Heart Rate Monitor,Button Interface",Rechargeable Battery,ANT+,iOS,Fitness & Lifestyle
+210,Flash,Misfit,33.00,Worn on the Body (Anywhere),"Accelerometer,LED Display",Disposable Battery,Bluetooth,Android,Fitness
+211,Shine,Misfit,119.95,"Worn on the Wrist, Neck & Body (Anywhere)","Clock,Accelerometer,LED Display",Disposable Battery,Bluetooth,iOS,Fitness & Lifestyle
+212,Moff,Moff,44.99,Worn on the Wrist,"Audio Speaker,Accelerometer,Gyroscope",Disposable Battery,Bluetooth,iOS,Gaming
+213,MonBaby,MonDevices,119.00,Worn on the Chest,Accelerometer,Disposable Battery,Bluetooth,iOS,Lifestyle
+214,AN24,Monica Healthcare,,Worn on the Torso,"ECG Sensor,EMG Sensor,EKG Sensor",Rechargeable Battery,Proprietary,,Medical
+215,iSport Freedom,Monster,209.00,Worn on the Head,"Audio Speaker,Microphone,Button Interface",Rechargeable Battery,Bluetooth,Blackberry,Entertainment
+216,TimeWalker Urban Speed e-Strap,Montblanc,300.00,Worn on the Wrist,"OLED Display,Touch Interface,Vibrator",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+217,Moov,Mushroom Labs,120.00,Worn on the Wrist & Ankle,"Accelerometer,Gyroscope,Magnetometer",Rechargeable Battery,Bluetooth,iOS,Fitness
+218,Moov Now,Mushroom Labs,59.95,Worn on the Wrist,"Accelerometer,Gyroscope,Magnetometer",Rechargeable Battery,Bluetooth,Android,Fitness & Lifestyle
+219,OpenGo,Moticon,"1,795.00",Worn on the Feet,"Pressure Sensor,Accelerometer",Rechargeable Battery,ANT+,Android,Medical & Fitness
+220,Moto 360,Motorola,249.00,Worn on the Wrist,"Pedometer,Microphone,Heart Rate Monitor,LCD Display,Touch Interface,Button Interface,Vibrator,Clock,Ambient Light Sensor",Rechargeable Battery,Bluetooth,Android,Lifestyle
+221,Moto 360 2,Motorola,299.00,Worn on the Wrist,"Accelerometer,Altimeter,Barometer,GPS,Gyroscope,Magnetometer,Microphone,Pedometer",Rechargeable Battery,WiFi,Windows Mobile,Lifestyle & Fitness
+222,Moto 360 Sport,Motorola,299.00,Worn on the Wrist,"Heart Rate Monitor,GPS,OLED Display,Touch Interface,Accelerometer,Magnetometer,Gyroscope,Ambient Light Sensor",Wireless Charging,Bluetooth,Android,Fitness
+223,Hint,Motorola,149.99,Worn on the Ear,"Infrared Sensor,Microphone,Audio Speaker",Rechargeable Battery,Bluetooth,Android,Lifestyle
+224,RS507,Motorola Solutions,881.00,Worn on the Fingers,"LED Indicator,Buzzer",Rechargeable Battery,Bluetooth,,Industrial
+225,ZeBracelet2,MyKronoz,79.00,Worn on the Wrist,"Accelerometer,Audio Speaker,Microphone,OLED Display,Vibrator,Watch,USB",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+226,ZeFit,MyKronoz,59.00,Worn on the Wrist,"Accelerometer,OLED Display,Watch,USB",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+227,ZeFit2,MyKronoz,39.90,Worn on the Wrist,"Accelerometer,OLED Display,Clock,USB",Rechargeable Battery,Bluetooth,Windows Mobile,Fitness & Lifestyle
+228,ZeFit2 Pulse,MyKronoz,79.90,Worn on the Wrist,"Accelerometer,OLED Display,Clock,Heart Rate Monitor,USB",Rechargeable Battery,Bluetooth,OSX,Fitness & Lifestyle
+229,ZeNano,MyKronoz,129.00,Worn on the Wrist,"LCD Display,FM Tuner,Microphone,Pedometer,Touch Interface,Clock",Disposable Battery,Bluetooth,Blackberry,Lifestyle
+230,ZeSplash,MyKronoz,129.00,Worn on the Wrist,"Watch,LCD Display,Touch Interface,Vibrator,Microphone,Audio Speaker,Pedometer",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+231,ZeSplash2,MyKronoz,129.90,Worn on the Wrist,"Watch,LCD Display,Touch Interface,Vibrator,Microphone,Audio Speaker,Pedometer,USB",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+232,"ZeWatch, ZeBracelet",MyKronoz,69.00,Worn on the Wrist,"LCD Display,FM Tuner,Microphone,Pedometer,Touch Interface,Clock",Disposable Battery,Bluetooth,Blackberry,Lifestyle
+233,ZeWatch 2,MyKronoz,79.99,Worn on the Wrist,"Accelerometer,Audio Speaker,Microphone,Vibrator,Watch,OLED Display,Button Interface,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+234,Clip,Narrative,279.00,Worn on the Torso & Neck,"GPS,Accelerometer,Magnetometer,Photo Camera,USB",Rechargeable Battery,,Android,Lifestyle
+235,Narrative Clip 2,Narrative,199.00,Worn on the Chest & Body (Anywhere),"Camera,Video Camera,Accelerometer,Water Resistant,LED Indicator,GPS,Gyroscope,USB",Rechargeable Battery,WiFi,Windows,Lifestyle
+236,June,Netatmo,49.00,"Worn on the Wrist, Neck & Chest",Ultraviolet Light Sensor,Rechargeable Battery,Bluetooth,iOS,Lifestyle & Medical
+237,Neuroon,Inteliclinic,229.00,Worn on the Head,"Accelerometer,EEG Sensor,Thermometer,Oximeter,LED Indicator,Temperature Sensor,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle
+238,Nevo Watch,Nevo,329.90,Worn on the Wrist,"Accelerometer,Button Interface,Watch,Vibrator,LCD Display",Solar Power,Bluetooth,iOS,Lifestyle
+239,NFC Ring,McLear Ltd,49.00,Worn on the Fingers,,No Power Required,NFC,Linux,Lifestyle
+240,Nike+ Sportwatch GPS,Nike,140.00,Worn on the Wrist,"LCD Display,Clock,GPS,USB",Rechargeable Battery,Proprietary,Windows,Lifestyle & Fitness
+241,Notch,Notch,379.00,Worn on the Body (Anywhere),,Rechargeable Battery,Bluetooth,Undisclosed,Fitness
+242,Novii Wireless Patch System,Monica Healthcare,,Worn on the Torso,"ECG Sensor,EMG Sensor,EKG Sensor",,Bluetooth,,Medical
+243,nECG Minder,Nuubo,,Worn on the Torso,"Accelerometer,Buzzer,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle & Medical
+244,Screeneye x,O-Synce,149.90,Worn on the Head,"Clock,Thermometer,Button Interface,Temperature Sensor,USB",Rechargeable Battery,ANT+,Windows,Fitness
+245,Rift,Oculus,349.00,Worn on the Head,"Accelerometer,Gyroscope,OLED Display,USB",External Source,,Linux,Entertainment & Gaming
+246,Bra,OMsignal,149.00,Worn on the Torso,"Heart Rate Monitor,Respiratory Monitor,Pedometer",Rechargeable Battery,Bluetooth,iOS,"Fitness, Medical & Lifestyle"
+247,Autographer,OMG,399.00,"Worn on the Neck, Torso & Waist","Accelerometer,Magnetometer,GPS,Thermometer,Photo Camera,Video Camera,Temperature Sensor",Rechargeable Battery,Bluetooth,OSX,Lifestyle
+248,Eagle,Optalert,,Worn on the Head,"Audio Jack,Audio Speaker,Backlight,LCD Display,Touch Interface,USB",Rechargeable Battery,WiFi,Windows,Lifestyle & Industrial
+249,Ora-2,Optinvent,699.00,Worn on the Head,"GPS,Photo Camera,Video Camera,Accelerometer,Gyroscope,Magnetometer,Ambient Light Sensor,Microphone,Audio Speaker,Audio Jack,LCD Display,Button Interface,USB",Rechargeable Battery,WiFi,Windows Mobile,Entertainment & Lifestyle
+250,OrCam,OrCam,"3,500.00",Worn on the Head,"Video Camera,Bone Conduction Speaker,Audio Jack,Button Interface,Gesture Interface",Rechargeable Battery,Undisclosed,Undisclosed,Lifestyle
+251,Onyx,Orion Labs,99.00,Worn on the Chest,"Microphone,Audio Jack,Audio Speaker,Button Interface",Rechargeable Battery,Bluetooth,Android,Lifestyle
+252,Baby Monitor,Owlet,250.00,Worn on the Feet,"Heart Rate Monitor,Oximeter",Rechargeable Battery,Bluetooth,iOS,Medical & Lifestyle
+253,Oxstren,Oxstren,,Worn on the Hand,"Vibrator,Buzzer,Accelerometer,Gyroscope,Heart Rate Monitor,LED Display",Rechargeable Battery,Bluetooth,Android,Fitness
+254,Pavlok,Behavioral Technology Group,149.00,Worn on the Wrist,"Vibrator,Buzzer,LED Indicator",Rechargeable Battery,Bluetooth,iOS,Fitness
+255,Pebble 2,Pebble,129.95,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Gyroscope",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+256,Pebble,Pebble,150.00,Worn on the Wrist,"E-Paper Display,Accelerometer,Magnetometer,Backlight,Clock,Vibrator,Button Interface",Rechargeable Battery,WiFi,Windows,Lifestyle
+257,Pebble Steel,Pebble,249.00,Worn on the Wrist,"E-Paper Display,Button Interface,Clock,Accelerometer,Magnetometer,Backlight",Rechargeable Battery,Bluetooth,Android,Lifestyle
+258,Pebble Time,Pebble,199.99,Worn on the Wrist,"E-Paper Display,Button Interface,Clock,Accelerometer,Magnetometer,Backlight",Rechargeable Battery,Bluetooth,Android,Lifestyle
+259,Pebble Time Round,Pebble,249.99,Worn on the Wrist,"E-Paper Display,Button Interface,Clock,Accelerometer,Magnetometer,Backlight",Rechargeable Battery,Bluetooth,Android,Lifestyle
+260,Pebble Time Steel,Pebble,249.99,Worn on the Wrist,"E-Paper Display,Button Interface,Clock,Accelerometer,Magnetometer,Backlight",Rechargeable Battery,Bluetooth,Android,Lifestyle
+261,Peregrine,Iron Will Innovations Canada,149.95,Worn on the Hand,"Touch Interface,USB",External Source,,Linux,Gaming & Entertainment
+262,Safety Bracelet,PFO,,Worn on the Wrist,GPS,Rechargeable Battery,Cellular Network,Undisclosed,Lifestyle & Industrial
+263,W/Me,Phyode,189.99,Worn on the Wrist,"LED Display,Heart Rate Monitor,Respiratory Monitor,Button Interface,Clock,ECG Sensor,EKG Sensor,USB",Rechargeable Battery,Bluetooth,Android,Medical
+264,Life Tracker 1,Pivotal Living,12.00,Worn on the Wrist,"OLED Display,Button Interface,Vibrator,Accelerometer,Clock",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+265,Polar FT4,Polar,99.95,Worn on the Wrist,"Backlight,Button Interface,Heart Rate Monitor,LCD Display",Disposable Battery,Undisclosed,,Fitness
+266,FT7,Polar,69.89,Worn on the Wrist,"Button Interface,Clock,Backlight,Heart Rate Monitor",Disposable Battery,Proprietary,Linux,Lifestyle & Fitness
+267,H7 Heart Rate Monitor,Polar,99.00,Worn on the Chest,"ECG Sensor,Heart Rate Monitor,EKG Sensor",Disposable Battery,Bluetooth,Android,Fitness
+268,Loop,Polar,99.00,Worn on the Wrist,"Clock,LED Display,Accelerometer,Button Interface,USB",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+269,M400,Polar,,Worn on the Wrist,"Accelerometer,GPS,Button Interface,Watch,USB",Rechargeable Battery,Bluetooth,,Fitness & Lifestyle
+270,RCX5,Polar,329.50,Worn on the Wrist,"LCD Display,Button Interface,Clock",Disposable Battery,Undisclosed,Windows,Fitness
+271,BodyGuardian,Preventice,,Worn on the Torso,"ECG Sensor,Respiratory Monitor,EKG Sensor",,Undisclosed,OSX,Medical
+272,PROCOOL I,Cool Shirt Systems,799.00,Worn on the Torso,CO2 Canister,,,,"Medical, Fitness & Industrial"
+273,Proteus Wearable Sensor,Proteus,,Worn on the Torso,,,Proprietary,Android,Medical & Fitness
+274,QardioArm,Qardio,99.00,Worn on the Arm,"Heart Rate Monitor,Blood Pressure Meter",Rechargeable Battery,Bluetooth,Android,Fitness & Medical
+275,QardioCore,Qardio,449.00,Worn on the Chest,"ECG Sensor,EKG Sensor,Thermometer,Temperature Sensor",Rechargeable Battery,Bluetooth,Android,Fitness & Medical
+276,Qmedic,Qmedic,240.00,Worn on the Wrist,"Accelerometer,Button Interface,Thermometer,Temperature Sensor",Disposable Battery,Radio Frequency,None,Medical & Lifestyle
+277,Toq,Qualcomm Connected Experiences Inc.,349.99,Worn on the Wrist,"Mirasol IMOD Display,Touch Interface,Clock",Rechargeable Battery,Bluetooth,Android,Lifestyle
+278,Quell,Quell,249.00,Worn on the Legs,"Accelerometer,USB",Rechargeable Battery,Bluetooth,iOS,Lifestyle & Medical
+279,Nabu,Razer,99.00,Worn on the Wrist,"Accelerometer,Altimeter,OLED Display,Clock,Touch Interface,USB",Rechargeable Battery,Proprietary,Android,Lifestyle & Fitness
+280,OSVR,Razer,199.00,Worn on the Head,"Accelerometer,Gyroscope,OLED Display,Magnetometer,USB",,,,Gaming
+281,HMT-1,RealWear,"1,500.00",Worn on the Head,"Audio Jack,Audio Speaker,Accelerometer,Gyroscope,Microphone,LCD Display,Clock,Depth Camera,Video Camera,Photo Camera,GPS",Rechargeable Battery,WiFi,Windows,Industrial
+282,Jet,Recon Instruments,699.00,Worn on the Head,"Accelerometer,Audio Speaker,Barometer,Clock,DLP Display,GPS,Gyroscope,Microphone,Photo Camera,Video Camera,Touch Interface,Magnetometer,Thermometer,Temperature Sensor,USB",Rechargeable Battery,ANT+,Windows,Fitness
+283,Snow2,Recon Instruments,399.00,Worn on the Head,"Accelerometer,Barometer,Clock,LCD Display,GPS,Gyroscope,Magnetometer,Button Interface,USB",Rechargeable Battery,ANT+,Windows,Fitness
+284,Checklight,Reebok,149.98,Worn on the Head,"LED Indicator,Accelerometer,USB",Rechargeable Battery,,,Fitness
+285,Reemo,Playtabase,,Worn on the Wrist,"Accelerometer,Gyroscope,Magnetometer",Rechargeable Battery,Bluetooth,OSX,Lifestyle
+286,Remee,BitBanger Labs,95.00,Worn on the Head,"LED Indicator,Button Interface",Disposable Battery,,,Lifestyle
+287,Mimo,Rest Devices,199.00,Worn on the Torso,"Respiratory Monitor,Accelerometer,USB",Rechargeable Battery,WiFi,Android,Lifestyle
+288,ReWalk Personal 6.0,ReWalk Robotics,,Worn on the Body,"Motor,Accelerometer,Gyroscope",Rechargeable Battery,,,Medical & Lifestyle
+289,SearchGPS,Rip Curl,400.00,Worn on the Wrist,"LCD Display,Button Interface,GPS,Accelerometer,Watch",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+290,Ritmo Pregnancy Audio Belt,Ritmo,79.95,Worn on the Body,Audio Jack,Rechargeable Battery,,OSX,Entertainment & Lifestyle
+291,Rufus Cuff,Rufus Labs,279.00,Worn on the Wrist,"Microphone,Audio Speaker,Video Camera,Photo Camera,Accelerometer,Touch Interface,GPS,Gyroscope,Vibrator",Rechargeable Battery,Bluetooth,iOS,Industrial
+292,Run Scribe Pro,Scribe Labs,149.00,Worn on the Feet,"LED Display,Accelerometer,GPS,Gyroscope",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+293,Safelet,Everfind,99.00,Worn on the Wrist,"Audio Speaker,GPS",Rechargeable Battery,Undisclosed,Undisclosed,Lifestyle
+294,Gear,Samsung,299.00,Worn on the Wrist,"OLED Display,Photo Camera,Video Camera,Accelerometer,Gyroscope,Microphone,Audio Speaker,Touch Interface,Clock",Rechargeable Battery,Bluetooth,Android,Entertainment & Lifestyle
+295,Gear 2,Samsung,249.00,Worn on the Wrist,"OLED Display,Photo Camera,Video Camera,Accelerometer,Gyroscope,Microphone,Audio Speaker,Touch Interface,Clock",Rechargeable Battery,Bluetooth,,Entertainment & Lifestyle
+296,Gear 2 Neo,Samsung,,Worn on the Wrist,"OLED Display,Microphone,Accelerometer,Gyroscope,Audio Speaker,Pedometer,Video Camera,Photo Camera,Clock,Heart Rate Monitor,Vibrator,Touch Interface",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+297,Gear Circle,Samsung,54.00,Worn on the Ear,"Button Interface,Microphone,Vibrator,Audio Speaker,Touch Interface",Rechargeable Battery,Bluetooth,Android,Lifestyle
+298,Gear Fit,Samsung,199.00,Worn on the Wrist,"Accelerometer,Gyroscope,Heart Rate Monitor,Touch Interface,Clock",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+299,Gear Fit 2,Samsung,180.00,Worn on the Wrist,"GPS,Heart Rate Monitor,Accelerometer,Gyroscope,Barometer,AMOLED Display",Rechargeable Battery,Bluetooth,Android,Fitness
+300,Gear Live,Samsung,199.00,Worn on the Wrist,"Accelerometer,Gyroscope,OLED Display,Microphone,Magnetometer,Heart Rate Monitor,Vibrator",Rechargeable Battery,Bluetooth,Android,Lifestyle
+301,Gear S,Samsung,349.99,Worn on the Wrist,"OLED Display,Heart Rate Monitor,GPS,Accelerometer,Magnetometer,Gyroscope,Ambient Light Sensor,Barometer,Touch Interface,Clock",Rechargeable Battery,Cellular Network,Android,Lifestyle & Fitness
+302,Gear S2,Samsung,299.00,Worn on the Wrist,"Accelerometer,Gyroscope,Heart Rate Monitor,Barometer,Ambient Light Sensor,GPS",Wireless Charging,NFC,Android,"Entertainment, Fitness & Lifestyle"
+303,Gear S3 Classic/Frontier,Samsung,349.00,Worn on the Wrist,"Accelerometer,Gyroscope,Barometer,Heart Rate Monitor,Ambient Light Sensor,GPS",Wireless Charging,Cellular Network,Android,"Entertainment, Fitness & Lifestyle"
+304,Gear VR,Samsung,199.00,Worn on the Hand,USB,Rechargeable Battery,,Android,Gaming
+305,Sense Pro,SenseCore,800.00,Worn on the Body (Anywhere),"ECG Sensor,Respiratory Monitor,Accelerometer,Thermometer,Temperature Sensor,EKG Sensor",,Undisclosed,Undisclosed,Medical & Fitness
+306,SensoGlove,SensoGlove,89.00,Worn on the Hand,"Textile Strain Sensor,USB",Disposable Battery,,Windows,Entertainment
+307,Sensus Pain Management System,NeuroMetrix,,Worn on the Legs,,Rechargeable Battery,,,Medical
+308,Shot Tracker,Shot Tracker,99.00,Worn on the Arm,,Rechargeable Battery,Undisclosed,iOS,Fitness
+309,Smart Cap,Edan Safe Pty Ltd,,Worn on the Head,"GPS,EEG Sensor",Rechargeable Battery,Bluetooth,Undisclosed,Industrial
+310,Smart Diaper,Pixie Scientific,39.00,Worn on the Pelvis,,,,,Lifestyle & Medical
+311,SMI Eye Tracking Glasses,SensoMotoric Instrument,,Worn on the Head,"Video Camera,Photo Camera,Microphone",Rechargeable Battery,WiFi,Android,Lifestyle & Industrial
+312,Biosport,SMS Audio,149.95,Worn on the Head,"Heart Rate Monitor,Microphone,Audio Speaker",External Source,,iOS,Fitness & Lifestyle
+313,Synch by 50 On-Ear Wireless,SMS Audio,199.95,Worn on the Head,"Audio Speaker,Microphone,Button Interface",Rechargeable Battery,Bluetooth,Android,Lifestyle
+314,Tracks Air,Sol Republic,199.99,Worn on the Head,"Audio Speaker,Microphone",Rechargeable Battery,Bluetooth,Gi-OS,Lifestyle
+315,MyoLink,Somaxis,99.00,Worn on the Body (Anywhere),"EEG Sensor,EMG Sensor,ECG Sensor,EKG Sensor",Disposable Battery,Bluetooth,Android,Medical & Lifestyle
+316,LiveView™ MN800 Micro Display,Sony,80.00,Worn on the Wrist,"Clock,LCD Display,LED Indicator,Button Interface,Touch Interface",Rechargeable Battery,Bluetooth,Android,Lifestyle
+317,Playstation VR,Sony,,Worn on the Head,"OLED Display,Accelerometer,Gyroscope,Audio Speaker,Microphone,USB",External Source,HDMI,Windows,Gaming
+318,SmartBand SWR10,Sony,99.99,Worn on the Wrist,USB,Rechargeable Battery,Bluetooth,Undisclosed,Lifestyle & Fitness
+319,SmartBand Talk SWR30,Sony,210.00,Worn on the Wrist,"Accelerometer,Altimeter,Microphone,Button Interface,Touch Interface,E-Paper Display,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+320,SmartWatch 2,Sony,98.99,Worn on the Wrist,"LCD Display,Touch Interface,Clock,USB",Rechargeable Battery,NFC,Android,Entertainment & Lifestyle
+321,SmartWatch 2,Sony,169.99,Worn on the Wrist,"LCD Display,Touch Interface,Clock,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle
+322,SmartWatch 3 SWR50,Sony,249.99,Worn on the Wrist,"LCD Display,Ambient Light Sensor,Accelerometer,Magnetometer,Gyroscope,GPS,Vibrator,Microphone,Button Interface,Touch Interface,USB",Rechargeable Battery,WiFi,Android,Lifestyle & Fitness
+323,SoundBite,Sonitus Medical Inc.,,Worn on the Mouth,Bone Conduction Speaker,Rechargeable Battery,WiFi,Undisclosed,Medical
+324,Pulse,Sound Brenner,149.00,Worn on the Arm & Legs,"Metronome,LED Display,Vibrator,Touch Interface,Motor",Rechargeable Battery,Bluetooth,iOS,Entertainment
+325,Spectacles,Snap Inc,130.00,Worn on the Head,"Video Camera,LED Indicator,Button Interface",Rechargeable Battery,WiFi,iOS,Lifestyle
+326,Field Survey Pack,Spectrum XLI,,Worn on the Torso,"GPS,Laser Position Sensor,AC/DC RMS Volt Meter,Sonar Sensor",,Bluetooth,Windows,Industrial
+327,Spire,Spire,119.00,Worn on the Body (Anywhere),Respiratory Monitor,Rechargeable Battery,Bluetooth,iOS,Lifestyle
+328,Spree Headband,Spree Wearables,130.00,Worn on the Head,"GPS,Accelerometer,Plethysmograph,USB",Rechargeable Battery,Bluetooth,iOS,Fitness
+329,Spree SmartCap,Spree Wearables,169.00,Worn on the Head,"Plethysmograph,GPS,Accelerometer,USB",Rechargeable Battery,Bluetooth,iOS,Fitness
+330,Baby Monitor,Sproutling,249.00,Worn on the Ankle,"Accelerometer,Thermometer,Heart Rate Monitor,Hygrometer,Ambient Light Sensor,Microphone,Temperature Sensor",Rechargeable Battery,WiFi,iOS,Lifestyle & Medical
+331,PowerPod,Sqord Inc,33.50,Worn on the Wrist,Accelerometer,Disposable Battery,WiFi,OSX,Fitness & Lifestyle
+332,StarVR,Starbreeze Studios,,Worn on the Head,"OLED Display,Accelerometer,Gyroscope,Audio Speaker,Microphone",External Source,HDMI,Windows,Entertainment & Gaming
+333,MAX (Modular Agile eXoskeleton),SuitX,"11,000.00",Worn on the Body,Motor,Rechargeable Battery,Undisclosed,Undisclosed,Industrial
+334,Phoenix,SuitX,"40,000.00",Worn on the Body,Motor,Rechargeable Battery,Undisclosed,Android,Medical
+335,SunFriend,SunFriend Corporation,49.99,Worn on the Wrist,"Ultraviolet Light Sensor,LED Indicator,Button Interface",,,,Lifestyle & Medical
+336,SunSprite Personal Light Tracker,GoodLux Technology LLC,99.99,Worn on the Body (Anywhere),"LED Indicator,Button Interface,Ultraviolet Light Sensor,Visible Light Sensor",Solar Power,Bluetooth,Android,"Lifestyle, Industrial, Medical & Fitness"
+337,SurroSense Rx System,Orpyx Medical Technologies,"3,399.00",Worn on the Wrist & Feet,"Pressure Sensor,USB",External Source,WiFi,Windows,Medical & Lifestyle
+338,Ambit,Suunto,500.00,Worn on the Wrist,"Barometer,Magnetometer,GPS,LCD Display,Clock,Thermometer,Button Interface,Temperature Sensor,USB",Rechargeable Battery,ANT+,OSX,Fitness & Lifestyle
+339,Suunto Ambit2,Suunto,255.00,Worn on the Wrist,"Barometer,GPS,Altimeter,LED Display,Button Interface,Heart Rate Monitor,USB",Rechargeable Battery,ANT+,Undisclosed,Fitness
+340,Quest,Suunto,199.00,Worn on the Wrist,"Watch,LED Display,Button Interface",Disposable Battery,Proprietary,iOS,Lifestyle & Fitness
+341,"Active, Signature, Rebel",sWaP,99.99,Worn on the Wrist,"Audio Speaker,Clock,FM Tuner,Touch Interface,Video Camera,LCD Display,USB",Disposable Battery,Cellular Network,OSX,Entertainment & Lifestyle
+342,Swipe Sense,SwipeSense,,Worn on the Body (Anywhere),,,WiFi,,Medical
+343,Activity Trackers,Sync,39.99,Worn on the Body (Anywhere),"Clock,Accelerometer",Disposable Battery,Undisclosed,Android,Fitness
+344,Fitness Bands,Sync,50.00,Worn on the Wrist,"Heart Rate Monitor,Clock,Backlight",Disposable Battery,Bluetooth,iOS,Fitness
+345,GPS Watches,Sync,79.99,Worn on the Wrist,"GPS,Accelerometer",Disposable Battery,Bluetooth,iOS,Fitness
+346,T.Jacket,T.Ware,729.00,Worn on the Torso,,,Bluetooth,iOS,Medical & Lifestyle
+347,Tagg,Snaptracs Inc.,99.95,Worn on the Neck,"GPS,Accelerometer",Rechargeable Battery,Undisclosed,OSX,Lifestyle
+348,Axon Flex,Taser,499.00,"Worn on the Head, Neck, Shoulders & Torso",Video Camera,Rechargeable Battery,Bluetooth,Windows,Industrial
+349,MYO Armband,Thalmic Labs,199.00,Worn on the Arm,"Accelerometer,Gyroscope,Magnetometer,EMG Sensor,Gesture Interface,USB",Rechargeable Battery,Bluetooth,Windows,"Entertainment, Gaming & Lifestyle"
+350,The Nymi Band,Nymi,199.00,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Gyroscope,Biometric Authenticator,USB",Rechargeable Battery,NFC,Android,Lifestyle
+351,Theatro,Theatro,,Worn on the Waist & Body (Anywhere),"Microphone,Audio Speaker,Button Interface",Rechargeable Battery,WiFi,Android,Industrial
+352,Ironman Move x20,Timex,155.00,Worn on the Wrist,"Button Interface,Vibrator,OLED Display,Clock,Accelerometer",Rechargeable Battery,Bluetooth,OSX,Fitness
+353,Ironman One GPS+,Timex,499.00,Worn on the Wrist,"GPS,Touch Interface,Button Interface,Vibrator,Mirasol IMOD Display,Clock",Rechargeable Battery,Cellular Network,OSX,Fitness
+354,Ironman Run x50,Timex,235.00,Worn on the Wrist,"Button Interface,Vibrator,LCD Display,Clock,Audio Speaker",Rechargeable Battery,Bluetooth,OSX,Fitness
+355,Tinitell,Tinitell,149.00,Worn on the Wrist,"GPS,Audio Speaker,Microphone,Accelerometer,LED Indicator",Rechargeable Battery,Cellular Network,iOS,Lifestyle
+356,Golf Watch,TLink,99.00,Worn on the Wrist & Body (Anywhere),"Accelerometer,LCD Display,Clock,GPS",Rechargeable Battery,Bluetooth,Android,Fitness
+357,3RD Space Vest,TN Games,139.00,Worn on the Torso,USB,External Source,,Windows,Gaming
+358,Pro Glasses 2,Tobii Eye Tracking Research,"14,900.00",Worn on the Head,"Gyroscope,Accelerometer",Rechargeable Battery,WiFi,Windows,Industrial
+359,Men's Solar Panel Jacket,Tommy Hilfiger,419.99,Worn on the Body,USB,Solar Power,,,Lifestyle
+360,Golfer,TomTom,249.99,Worn on the Wrist,"GPS,Watch,Button Interface,USB",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+361,TomTom Runner,TomTom,199.99,Worn on the Wrist,"Heart Rate Monitor,Vibrator,Clock,Accelerometer",Rechargeable Battery,Bluetooth,Android,Lifestyle
+362,Trax,Wonder Technology Solutions,199.00,,"Accelerometer,Gyroscope,Magnetometer,GPS",Rechargeable Battery,Cellular Network,Windows,Lifestyle & Pets Animals
+363,TRiLOC GPS Locator,TRiLOC,399.99,Worn on the Wrist,"Clock,Audio Speaker,Microphone,GPS",Rechargeable Battery,Cellular Network,None,Lifestyle
+364,TwoNav Ultra,CompeGPS,329.75,Worn on the Wrist,"LCD Display,Touch Interface,GPS,Magnetometer,Barometer,Button Interface,USB",Rechargeable Battery,Bluetooth,,Fitness
+365,Enviro-Tracker,TZOA,139.00,Worn on the Body (Anywhere),"Particulate Matter Sensor,Ultraviolet Light Sensor,Ambient Light Sensor,Thermometer,Humidity Sensor,Temperature Sensor,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle & Medical
+366,Elite,UltrOZ,"1,295.00",Worn on the Body (Anywhere),,Rechargeable Battery,,,Medical & Pets Animals
+367,Kanega,Unaliwear,299.00,Worn on the Wrist,"GPS,Accelerometer,Audio Speaker",Rechargeable Battery,Bluetooth,,Medical
+368,Armour39 Module and Chest Strap,"Under Armour, Inc.",149.00,Worn on the Chest,Heart Rate Monitor,Disposable Battery,Bluetooth,iOS,Fitness
+369,Armour39 Watch,"Under Armour, Inc.",199.00,Worn on the Wrist,"LCD Display,Clock",Disposable Battery,Bluetooth,iOS,Fitness & Lifestyle
+370,Uno Noteband,Uno Noteband,129.00,Worn on the Wrist,"Gyroscope,Accelerometer,OLED Display,Vibrator",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+371,V. ALRT,VSN Mobile,59.99,Worn on the Wrist & Body (Anywhere),Button Interface,Disposable Battery,Bluetooth,iOS,Lifestyle
+372,Valedo,Hocoma,300.00,Worn on the Chest & Waist,"Accelerometer,Gyroscope,Magnetometer",Rechargeable Battery,Bluetooth,Android,Fitness
+373,VECTOR LUNA,Vector,249.00,Worn on the Wrist,"Accelerometer,Vibrator,Water Resistant",Rechargeable Battery,Bluetooth,Windows,Lifestyle
+374,Vigo,Vigo,79.00,Worn on the Head,"Infrared Sensor,Accelerometer,Gyroscope,Vibrator,Ambient Light Sensor",Rechargeable Battery,Bluetooth,iOS,Lifestyle & Industrial
+375,VinCense WHMS,MedIoTek Health Systems P Ltd.,240.00,Worn on the Wrist,"Button Interface,Heart Rate Monitor,Infrared Sensor,Oximeter,Thermometer,Temperature Sensor",Disposable Battery,Bluetooth,Android,Medical
+376,Visi Mobile,Sotera Wireless,,Worn on the Wrist,"Oximeter,OLED Display,Touch Interface,Blood Pressure Meter,ECG Sensor,EKG Sensor",Rechargeable Battery,WiFi,Windows,Medical
+377,Vitalacy Wristband,Vitalacy,,Worn on the Wrist,"Accelerometer,Vibrator,Clock",Rechargeable Battery,Bluetooth,,Medical
+378,D1,Voice Caddie,169.99,Worn on the Waist,"GPS,Button Interface,LCD Display,Audio Speaker,Backlight,USB",Rechargeable Battery,,,Fitness
+379,T1 Hybrid Golf GPS Watch,Voice Caddie,128.00,Worn on the Wrist,"Watch,Button Interface,GPS,LCD Display",Rechargeable Battery,,,Entertainment
+380,VC100,Voice Caddie,79.99,Worn on the Body (Anywhere),"GPS,Button Interface,LED Indicator,Audio Speaker,USB",Rechargeable Battery,,,Fitness
+381,VC200,Voice Caddie,99.99,Worn on the Body (Anywhere),"GPS,Button Interface,LED Indicator,Audio Speaker,USB",Rechargeable Battery,,,Fitness
+382,VC300,Voice Caddie,129.99,Worn on the Body (Anywhere),"GPS,Touch Interface,LED Indicator,Audio Speaker,USB",Rechargeable Battery,,,Fitness
+383,Voyce Dog Monitor,Voyce,199.00,Worn on the Neck,"Accelerometer,Respiratory Monitor,Heart Rate Monitor,Thermometer,Temperature Sensor",Rechargeable Battery,WiFi,OSX,Pets Animals
+384,1200DX,Vuzix,499.99,Worn on the Head,"LCD Display,Audio Speaker,USB",Rechargeable Battery,HDMI,Linux,"Industrial, Entertainment & Gaming"
+385,1200DX-AR,Vuzix,"1,499.99",Worn on the Head,"LCD Display,Audio Speaker,Accelerometer,Magnetometer,Gyroscope,USB",Rechargeable Battery,HDMI,Linux,Industrial
+386,1200DX-VR,Vuzix,599.99,Worn on the Head,"LCD Display,Audio Speaker,Accelerometer,Magnetometer,Gyroscope,USB",Rechargeable Battery,HDMI,Linux,"Industrial, Entertainment & Gaming"
+387,AR3000,Vuzix,,Worn on the Head,"Touch Interface,Camera,Gesture Interface,Magnetometer,Gyroscope,Accelerometer,Microphone,Holographic Waveguide Display",Rechargeable Battery,Bluetooth,iOS,Industrial & Medical
+388,Blade 3000,Vuzix,,Worn on the Head,"Photo Camera,Video Camera,Voice Actions,Vibrator,USB",Rechargeable Battery,Bluetooth,iOS,Industrial & Medical
+389,M100,Vuzix,999.99,Worn on the Head,"Button Interface,Accelerometer,Ambient Light Sensor,Infrared Sensor,Gyroscope,Magnetometer,Audio Speaker,Microphone,Photo Camera,Video Camera,Clock,USB",Rechargeable Battery,Bluetooth,iOS,Industrial & Lifestyle
+390,M2000AR,Vuzix,"5,999.00",Worn on the Head,"Accelerometer,Gyroscope,Magnetometer,Video Camera,Photo Camera,Button Interface,DLP Display,USB",Rechargeable Battery,HDMI,Windows,Industrial
+391,M300 Smart Glasses,Vuzix,499.00,Worn on the Head,"Audio Speaker,Camera,GPS,Accelerometer,Gyroscope,Voice Actions,Magnetometer,USB",External Source,WiFi,iOS,Industrial & Medical
+392,M3000 Smart Glasses,Vuzix,,Worn on the Head,"Gyroscope,Accelerometer,Camera,Video Camera,Voice Actions,GPS,Magnetometer",Disposable Battery,WiFi,iOS,Industrial & Medical
+393,Tickr Heart Rate Monitor,Wahoo Fitness,49.99,Worn on the Chest,Heart Rate Monitor,Disposable Battery,Bluetooth,Android,Fitness
+394,Run Workout Tracker,Wahoo Fitness,79.99,Worn on the Chest,"Heart Rate Monitor,Accelerometer",Disposable Battery,Bluetooth,Android,Fitness
+395,Tickr X Workout Tracker,Wahoo Fitness,99.99,Worn on the Chest,"Heart Rate Monitor,Accelerometer",Disposable Battery,Bluetooth,Android,Fitness
+396,Smart Watch,WearIT,,Worn on the Wrist,"GPS,LCD Display,Touch Interface,Accelerometer,Magnetometer,Pedometer,Buzzer,Clock,USB",Rechargeable Battery,RFID,Android,Fitness
+397,Wellograph,"Wellograph Co., Ltd.",320.00,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Gyroscope,Magnetometer,LCD Display,Button Interface,Clock,USB",Rechargeable Battery,Bluetooth,Android,Lifestyle & Fitness
+398,Whistle,Whistle,129.95,Worn on the Neck,GPS,Rechargeable Battery,Bluetooth,Android,Pets Animals
+399,WHOOP Strap 2.0,WHOOP,500.00,Worn on the Wrist,"Heart Rate Monitor,Accelerometer,Touch Interface,Temperature Sensor,Thermometer",Rechargeable Battery,Bluetooth,iOS,Fitness
+400,Duchess,Socialite,295.00,Worn on the Wrist,"Accelerometer,GPS,Pedometer,Vibrator,Touch Interface",Rechargeable Battery,WiFi,iOS,Lifestyle
+401,Activité,Withings,450.00,Worn on the Wrist,"Clock,Button Interface,Accelerometer,Ambient Light Sensor",Disposable Battery,Bluetooth,Android,Lifestyle & Fitness
+402,Activité Pop,Withings,149.95,Worn on the Wrist,"Accelerometer,Vibrator,Ambient Light Sensor,Clock",Disposable Battery,Bluetooth,iOS,Fitness & Lifestyle
+403,Blood Pressure Monitor,Withings,129.95,Worn on the Arm,"Heart Rate Monitor,Blood Pressure Meter",Disposable Battery,Proprietary,iOS,"Fitness, Lifestyle & Medical"
+404,Pulse,Withings,99.00,Worn on the Wrist & Chest,"OLED Display,Touch Interface,Heart Rate Monitor,Clock",Rechargeable Battery,Bluetooth,Android,Fitness & Medical
+405,WT4000,Motorola Soultions,"2,598.00",Worn on the Arm,"Button Interface,LCD Display,Microphone,USB",Rechargeable Battery,WiFi,Windows,Industrial
+406,Xensr Air,Xensr,195.00,Worn on the Body (Anywhere),"GPS,Accelerometer,Gyroscope,Magnetometer",Rechargeable Battery,Bluetooth,Android,Fitness
+407,MI Band 2,Xiaomi,23.00,Worn on the Wrist,"Accelerometer,Barometer,OLED Display,Heart Rate Monitor,Vibrator,Touch Interface",Rechargeable Battery,Bluetooth,iOS,Fitness & Lifestyle
+408,XMetrics Pro,XMetrics,299.99,Worn on the Head,"Accelerometer,Gyroscope,Magnetometer,USB",Rechargeable Battery,Bluetooth,Android,Fitness
+409,MVN,Xsens,,Worn on the Body,"Accelerometer,Gyroscope",Rechargeable Battery,Radio Frequency,Windows,Entertainment
+410,Achillex,Xybermind,"1,400.00",Worn on the Torso & Feet,USB,Rechargeable Battery,,Windows,Fitness & Medical
+411,Zeblaze Blitz,Zeblaze,110.00,Worn on the Wrist,"Accelerometer,Gyroscope,Pedometer,GPS,Heart Rate Monitor,Vibrator,Pressure Sensor,Microphone",Rechargeable Battery,Cellular Network,iOS,Fitness
+412,Zebra Dart Tag,Zebra Technologies,,Worn on the Body (Anywhere),,CR2025 Coin Cell,WiFi,Undisclosed,Industrial
+413,HS2100 Rugged Corded Headset,Zebra,169.60,Worn on the Head,"Noise Suppression,Water Resistant,Audio Jack,Voice Actions,Voice Interface,Audio Jack,Noise Suppression",No Power Required,,,Industrial
+414,HS3100 Rugged Headset,Zebra,291.30,Worn on the Head,"Noise Suppression,Water Resistant,Voice Actions,Voice Interface,Noise Suppression",Rechargeable Battery,NFC,Android,Industrial
+415,RS4000 1D Corded Ring Scanner,Zebra,696.31,Worn on the Fingers,"Barcode Scanner,Accelerometer,Gyroscope",Rechargeable Battery,NFC,Android,Industrial
+416,RS6000 BLUETOOTH RING SCANNER,Zebra,"1,250.00",Worn on the Fingers,"Barcode Scanner,Accelerometer,Gyroscope",Rechargeable Battery,NFC,Android,Industrial
+417,WT6000 Wearable Computer,Zebra,"2,456.00",Worn on the Wrist,"Clock,Audio Speaker,Microphone,Touch Interface,LCD Display,Gyroscope,Accelerometer,USB",Rechargeable Battery,WiFi,Android,Industrial
+418,RCH51 RUGGED CABLED HEADSET,Zebra,,Worn on the Head,"Audio Jack,Noise Suppression,Voice Interface,Voice Actions,Water Resistant,Audio Jack,Noise Suppression",No Power Required,,Windows,Industrial
+419,Zephry Shirt,Medtronic,155.00,Worn on the Body (Anywhere),"Heart Rate Monitor,Respiratory Monitor,Accelerometer,Gyroscope,GPS,Blood Pressure Meter,Pulse Oximetry,ECG Sensor,Temperature Sensor,Fire Resistant,EKG Sensor,Thermometer",Rechargeable Battery,Gateway,Windows,Fitness
+420,Zepp Baseball/Golf/Tennis,Zepp,149.99,Worn on the Wrist,"Accelerometer,Gyroscope,USB",Rechargeable Battery,Bluetooth,iOS,Fitness
+421,ZGPAX S5,ZGPAX,119.00,Worn on the Wrist,"Accelerometer,Magnetometer,Gyroscope,GPS,Touch Interface,LCD Display,Button Interface,Ambient Light Sensor,Video Camera,Microphone,Audio Speaker,Vibrator,Clock,USB",Rechargeable Battery,Bluetooth,iOS,Lifestyle
+422,Zio XT Patch,iRhythm,,Worn on the Body (Anywhere),"ECG Sensor,EKG Sensor",Rechargeable Battery,Bluetooth,OSX,Medical
+423,Zoll LifeVest,Zoll Medical Corporation,,Worn on the Chest,"ECG Sensor,Defibrillator,EKG Sensor",Rechargeable Battery,Undisclosed,Windows,Medical
+424,Zypad WL1500,EuroTech,,Worn on the Wrist,"GPS,Accelerometer,Touch Interface,QVGA Display,Button Interface,Microphone,Audio Speaker,Barcode Scanner,USB",Rechargeable Battery,Cellular Network,Windows,Industrial
+425,Phone,Phone Company, 400, Hand,"GPS,Accelerometer,Touch Interface,QVGA Display,Button Interface,Microphone,Audio Speaker,Barcode Scanner,USB,Accelerometer,Temperature Sensor,Noise Suppression,WiFi,Camera",Rechargeable Battery, WiFi,iOS&Android, All
